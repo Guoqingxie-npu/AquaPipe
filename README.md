@@ -1,6 +1,6 @@
 ﻿# SubPipe-Risk
 
-This repository provides SubPipe-Risk dataset for our paper entitled "An Autonomous Underwater Pipeline Inspection Framework for AUV via Open-Set Hazard Detection and Pipeline Segmentation," currently under review.
+This repository provides SubPipe-Risk dataset for our paper entitled "An Autonomous Underwater Pipeline Inspection Framework for AUV via Open-Set Hazard Detection and Pipeline Segmentation," currently under review. 
 
 <p align="center">
 <img src="./fig/1.png" width="500" height="300"/>

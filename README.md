@@ -39,7 +39,7 @@ The provided sample dataset supports two core perception tasks:
 The full version of **SubPipe-Risk** will further support multi-task evaluation for hazard detection, pipeline segmentation, and object-to-pipeline risk assessment.
 
 <p align="center">
-<img src="./fig/2.png" width="600" height="200"/>
+<img src="./fig/2.png" width="800" height="300"/>
 </figure> 
 </p>
 
